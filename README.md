@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lorenzodilauro
 - 👀 I’m interested in tech, politics, data and facts.
-- 🌱 I’m currently learning how to resume the world in a graph.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to understand data.
 - 📫 How to reach me: lorenzodilauro20@gmail.com
 
 <!---
